@@ -15,7 +15,7 @@ body {
   padding-top: 15px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #f3e417;
   font-size: 2em;
